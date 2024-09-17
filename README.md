@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to My GitHub
 
-<!--
-**RuslanZhagypar/RuslanZhagypar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ruslan Zhagypar
 
-Here are some ideas to get you started:
+I am a PhD student in Electrical and Computer Engineering (ECE) at King Abdullah University of Science and Technology (KAUST), Saudi Arabia. I completed my bachelor's degree in ECE at Nazarbayev University in Kazakhstan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Interests
+
+- **Federated Learning**: Exploring decentralized machine learning models for collaborative learning without sharing data.
+- **Stochastic Geometry**: Applying mathematical tools to model and analyze random spatial patterns in networks.
+- **Distributed Learning**: Developing algorithms that enable learning across distributed systems and devices.
+- **Semantic Communication**: Investigating the integration of meaning-based communication in emerging technologies like digital twins.
+
+Feel free to browse my repositories and projects related to these exciting fields of research!
